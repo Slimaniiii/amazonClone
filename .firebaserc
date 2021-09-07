@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my--clone-b7f5d": {
+      "hosting": {
+        "my-amazon-clone": [
+          "my--clone-b7f5d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my--clone-b7f5d"
+  }
+}
